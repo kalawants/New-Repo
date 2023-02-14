@@ -1,1 +1,2 @@
 sample file
+conflict on dev branch
