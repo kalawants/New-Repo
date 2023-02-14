@@ -1,1 +1,2 @@
 sample file
+data conflict on master
